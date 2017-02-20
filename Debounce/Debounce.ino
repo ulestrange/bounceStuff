@@ -1,4 +1,5 @@
 /*
+ * 
  Debounce
 
  Each time the input pin goes from LOW to HIGH (e.g. because of a push-button
@@ -29,7 +30,7 @@
 
 // constants won't change. They're used here to
 // set pin numbers:
-const int buttonPin = 2;    // the number of the pushbutton pin
+const int buttonPin = 3;    // the number of the pushbutton pin
 const int ledPin = 13;      // the number of the LED pin
 
 // Variables will change:
